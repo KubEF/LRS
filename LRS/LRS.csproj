@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FiniteFields\FiniteFieldsMain\FiniteFields.csproj" />
+  </ItemGroup>
+
 </Project>
